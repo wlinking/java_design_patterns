@@ -24,7 +24,7 @@
 package me.zbl.factory.method;
 
 /**
- * 食物类型
+ * 食物类型-枚举类型
  */
 public enum FoodType {
 
