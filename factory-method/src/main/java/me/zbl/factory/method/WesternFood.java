@@ -41,6 +41,6 @@ public class WesternFood implements Food {
 
   @Override
   public String toString() {
-    return foodType.getName() + "西餐";
+    return foodType.getName() + "西餐1";
   }
 }
